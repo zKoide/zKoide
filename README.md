@@ -19,27 +19,27 @@ Abaixo estão as ferramentas que domino e utilizo no meu dia a dia para construi
     <td valign="top" width="50%">
       <strong>⚡ Linguagens & Frameworks</strong>
       <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/React_19-121212?style=for-the-badge&logo=react&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/React_Native-121212?style=for-the-badge&logo=react&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Fastify-121212?style=for-the-badge&logo=fastify&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Express-121212?style=for-the-badge&logo=express&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <strong>⚙️ Banco, Cache & Infra</strong>
       <br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Redis-121212?style=for-the-badge&logo=redis&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Prisma-121212?style=for-the-badge&logo=prisma&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Google_Cloud-121212?style=for-the-badge&logo=google-cloud&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Google_Gemini-121212?style=for-the-badge&logo=google-gemini&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -83,9 +83,9 @@ Abaixo estão as ferramentas que domino e utilizo no meu dia a dia para construi
 
 <p align="left">
   <a href="https://linkedin.com/in/alexandre-augusto-nunes-de-oliveira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alex12345abcdef@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
