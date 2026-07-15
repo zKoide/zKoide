@@ -53,7 +53,7 @@ Abaixo estão as ferramentas que domino e utilizo no meu dia a dia para construi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏋️‍♂️ TrainSpot</h4>
+      <h4>🏋️‍♂️ <a href="https://trainspot.com.br/" target="_blank">TrainSpot</a> <img src="https://img.shields.io/badge/Em%20Produ%C3%A7%C3%A3o-success?style=flat-square" alt="Em Produção" /></h4>
       <p><i>SaaS Multi-tenant para Academias & CrossFit</i></p>
       <ul>
         <li>APIs de alto desempenho em <strong>Fastify (Node.js)</strong> e TypeScript.</li>
@@ -63,7 +63,7 @@ Abaixo estão as ferramentas que domino e utilizo no meu dia a dia para construi
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🍔 DashEats</h4>
+      <h4>🍔 <a href="http://dasheats.com.br/" target="_blank">DashEats</a> <img src="https://img.shields.io/badge/Em%20Produ%C3%A7%C3%A3o-success?style=flat-square" alt="Em Produção" /></h4>
       <p><i>SaaS para Gestão Gastronômica em Tempo Real</i></p>
       <ul>
         <li>Comunicação de baixíssima latência via WebSockets (<strong>Socket.io</strong> + Redis).</li>
