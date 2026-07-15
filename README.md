@@ -1,10 +1,10 @@
 # Olá! Eu sou o Alexandre (zKoide) 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&width=435&lines=Senior+Full+Stack+Engineer;TypeScript+%2F+Node.js+Specialist;SaaS+Architecture+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&width=435&lines=Full+Stack+Developer;TypeScript+%2F+Node.js;Web+%26+Mobile+Developer" alt="Typing SVG" />
 </p>
 
-Atuo na engenharia de software full stack focado em criar soluções corporativas de alto impacto, arquiteturas SaaS modernas, escaláveis e de alta performance.
+Atuo na engenharia de software full stack focado em criar soluções corporativas de alto impacto, arquiteturas web modernas, escaláveis e de alta performance.
 
 ---
 
@@ -68,20 +68,7 @@ Atuo na engenharia de software full stack focado em criar soluções corporativa
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
-  <a href="https://github.com/zKoide">
-    <img src="https://github-readme-stats.vercel.app/api?username=zKoide&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  </a>
-  <a href="https://github.com/zKoide">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKoide&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="180" />
-  </a>
-</p>
-
----
-
-### 📩 Conecte-se comigo
+### 📫 Conecte-se comigo
 
 <p align="left">
   <a href="https://linkedin.com/in/alexandre-augusto-nunes-de-oliveira" target="_blank">
